@@ -1,0 +1,4 @@
+{"max_features": 5000,
+"max_len": 500,
+"batch_size": 1024
+}
